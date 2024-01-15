@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://graphics-engine.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Graphics Engine'
+theme = 'hugo-theme-hello-friend'
