@@ -6,8 +6,8 @@ title = 'Graphics Engine'
   path = 'github.com/panr/hugo-theme-hello-friend'
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Graphics Engine"
+    subtitle = "A blog about computer graphics"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
